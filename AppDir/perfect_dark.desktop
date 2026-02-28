@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Perfect Dark
+Comment="PC port of Perfect Dark"
+Icon=io.github.fgsfdsfgs.perfect_dark
+Exec=pd
+Terminal=false
+StartupWMClass=
+Categories=Game;Action;
