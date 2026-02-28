@@ -33,4 +33,4 @@ mkdir -p ./AppDir/bin
 cd ./perfect_dark
 cmake -G"Unix Makefiles" -Bbuild -DCMAKE_BUILD_TYPE=Release .
 cmake --build build -j$(nproc)
-mv -v build/pd.$arch ./AppDir/bin/pd
+mv -v build/pd.$ARCH ./AppDir/bin/pd
