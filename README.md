@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Perfect-Dark-AppImage)](https://github.com/pkgforge-dev/Perfect-Dark-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/fgsfdsfgs/perfect_dark/blob/port/dist/linux/io.github.fgsfdsfgs.perfect_dark.png" width="128" />
+  <img src="https://raw.githubusercontent.com/perfect-dark-pc-port/perfect_dark/refs/heads/port/dist/linux/io.github.perfect_dark_pc_port.perfect_dark.png" width="128" />
 </p>
 
 
@@ -17,11 +17,11 @@
 
 </div>
 
-### ⚠️ Copy `pd.ntsc-final.z64` to `~/.local/share/perfectdark/data` ⚠️
+### ⚠️ Place `pd.ntsc-final.z64` inside `~/.local/share/perfectdark/data` ⚠️
 
 ---
 
-AppImage made using [sharun](https://github.com/VHSgunzo/sharun) and its wrapper [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
+AppImage made using [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
 
 **This AppImage bundles everything and it should work on any Linux distro, including old and musl-based ones.**
 
