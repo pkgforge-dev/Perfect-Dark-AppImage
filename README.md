@@ -17,7 +17,7 @@
 
 </div>
 
-### ⚠️ Copy `pd.ntsc-final.z64` to `~/.local/share/perfectdark/data` ⚠️
+### ⚠️ Place `pd.ntsc-final.z64` inside `~/.local/share/perfectdark/data` ⚠️
 
 ---
 
