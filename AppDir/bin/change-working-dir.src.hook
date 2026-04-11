@@ -1,4 +1,0 @@
-#!/bin/false
-dir=${XDG_DATA_HOME:-~/.local/share}/perfectdark
-mkdir -p "$dir"/data
-cd "$dir"

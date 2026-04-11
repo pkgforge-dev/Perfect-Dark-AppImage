@@ -1,0 +1,4 @@
+#!/bin/sh
+dir=$DATADIR/perfectdark
+mkdir -p "$dir"/data
+cd "$dir"
