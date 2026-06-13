@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Perfect-Dark-AppImage)](https://github.com/pkgforge-dev/Perfect-Dark-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/fgsfdsfgs/perfect_dark/blob/port/dist/linux/io.github.fgsfdsfgs.perfect_dark.png" width="128" />
+  <img src="https://raw.githubusercontent.com/perfect-dark-pc-port/perfect_dark/refs/heads/port/dist/linux/io.github.perfect_dark_pc_port.perfect_dark.png" width="128" />
 </p>
 
 
