@@ -18,7 +18,7 @@ echo "Building Perfect Dark..."
 echo "---------------------------------------------------------------"
 REPO="https://github.com/fgsfdsfgs/perfect_dark"
 VERSION="$(git ls-remote "$REPO" HEAD | cut -c 1-9 | head -1)"
-git clone "$REPO" ./perfect_dark
+git clone --depth 1 "$REPO" ./perfect_dark
 echo "$VERSION" > ~/version
 
 mkdir -p ./AppDir/bin
